@@ -15,4 +15,7 @@
   .subscribe-button:hover {
     background-color: #45a049;
   }
+  header {
+    margin-top: 20px;
+  }
   
