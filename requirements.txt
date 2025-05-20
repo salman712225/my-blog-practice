@@ -1,1 +1,1 @@
-urllib3==1.26.19  # This version has known vulnerabilities
+urllib3==2.4.0  # This version has known vulnerabilities
